@@ -1,0 +1,2 @@
+Assets/LostTemple-HDRP-UModeler/Scenes/Lost/[[:space:]]Temple/[[:space:]]Scene.unity filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
