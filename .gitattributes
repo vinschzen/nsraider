@@ -40,3 +40,4 @@ Assets/LostTemple-HDRP-UModeler/Scenes/Lost/[[:space:]]Temple/[[:space:]]Scene.u
 *.dwlt filter=lfs diff=lfs merge=lfs -text
 *.index filter=lfs diff=lfs merge=lfs -text
 *.settings filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
